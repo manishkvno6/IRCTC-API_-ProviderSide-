@@ -85,12 +85,4 @@ This project is mainly for learning and practice.
 🚀 Add payment integration
 🚀 Deploy using Docker and Cloud
 
-👨‍💻 Developer
 
-Manish Kumar
-Java & Spring Boot Developer ☕💻
-
-📄 Purpose
-
-📚 This project is created for educational and training purposes.
-It helps in understanding REST APIs, microservices, and Spring Boot development.
